@@ -8,7 +8,9 @@ Before running the scripts, please ensure that you have the following:
 
 Chrome browser installed on your machine.
 Chrome Webdriver set up. The path to the Chrome Webdriver file should be provided at the specified line in the code for proper execution.
-Usage
+
+**Usage**
+
 Clone the repository to your local machine.
 Install the required dependencies.
 Set up the Chrome Webdriver and provide the path in the code.
