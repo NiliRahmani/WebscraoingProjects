@@ -1,4 +1,5 @@
 Nike website Data Extracting using Pythin and Selenium
+
 In this code I have extracted some Tshirt items and all related data to each item using Selenium. I have saved text data in excel file uploaded and the images also have been saved on my pc which you can find a copy of them here:
 To run the scripts, please ensure you have Chrome browser installed and the Chrome Webdriver set up. The path to the Chrome Webdriver file should be provided at the specified line in the code for proper execution.
 The Excel file includes a column labelled 'Path to the Image', indicating the local path on my PC. You can defenitely change it based on your desire. I have uploaded the Nike images to my Google Drive. You can access them using the following link: https://drive.google.com/drive/folders/1vNrW7kK0W0GiSVqhijM2vIHmzKCdFrOl?usp=sharing 
